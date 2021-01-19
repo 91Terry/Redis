@@ -1,6 +1,6 @@
-package com.terry.redis.toptest;
+package com.terry.redis.test;
 
-import com.terry.redis.JedisUtil;
+import com.terry.redis.common.JedisUtil;
 import redis.clients.jedis.Jedis;
 import redis.clients.jedis.Tuple;
 

@@ -1,9 +1,9 @@
-package com.terry.redis;
+package com.terry.redis.api;
 
+import com.terry.redis.common.JedisUtil;
 import redis.clients.jedis.Jedis;
 import redis.clients.jedis.Tuple;
 
-import java.lang.annotation.ElementType;
 import java.util.Set;
 
 public class Jedis_API_Zset {

@@ -1,10 +1,10 @@
-package com.terry.redis;
+package com.terry.redis.api;
 
+import com.terry.redis.common.JedisUtil;
 import redis.clients.jedis.Jedis;
 
 import java.util.HashMap;
 import java.util.List;
-import java.util.WeakHashMap;
 
 
 public class Jedis_API_Hash {
